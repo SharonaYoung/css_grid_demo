@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body > *{
+  border: 1px solid #0e0741;
+}
+.hero{
+  background: #cbd0d8;
+  height: 70vh;  
+}
+nav{
+  background: #d3ac2b;
+ 
+}
+main{
+  width: 80vw;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.title{
+  background: #f4f3ea;
+  height:50px;
+}
+.image{
+  background: #cbd0d8;
+}
+.bio{
+  border: 1px dotted #000;
+}
+footer{
+  background: #333d51;
+  height: 80px;
+}
